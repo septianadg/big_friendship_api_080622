@@ -2,8 +2,8 @@ package main
 
 import (
 	// directory root project go yang kita buat
-	"https://github.com/septianppm/big_friendship_api_080622/tree/main/models" // memanggil package models pada directory models
-	"https://github.com/septianppm/big_friendship_api_080622/tree/main/routes"
+	"Golang_latihan/big_friendship_api/models" // memanggil package models pada directory models
+	"Golang_latihan/big_friendship_api/routes
 )
 
 func main() {
